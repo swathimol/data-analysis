@@ -1,0 +1,49 @@
+# 🧠 Python Data Science Foundations
+
+This repository provides a structured collection of essential materials for learning and applying core concepts in **Data Analysis**, **Preprocessing**, and **Visualization** using Python. It includes theory notes (PDFs), practical notebooks, and visual examples — ideal for both self-study and teaching.
+
+---
+
+## 📚 Contents
+
+### 🧮 Numerical Computing with NumPy
+- `numpy.pdf`: Basics of array operations, indexing, reshaping, broadcasting
+
+### 🐼 Data Handling with Pandas
+- `pandas.pdf`: DataFrames, Series, filtering, grouping, and merging
+
+### 🧹 Data Preprocessing Techniques
+- `data preprocessing.pdf`: Overview of data preparation for ML
+- `data preprocessing.ipynb`: Practical notebook for preprocessing
+- `handling missing values.pdf`: Techniques to manage NaNs
+- `encoding.pdf`: Label and one-hot encoding
+- `outlier handling.pdf`: Methods to detect and handle outliers
+- `skewness_&_encoding_.ipynb`: Working with skewed data and encoding
+
+### 📊 Data Visualization
+- `matplotlib.pdf`: Core plotting using Matplotlib
+- `SEABORN.ipynb`: Advanced statistical plots with Seaborn
+- `corr.pdf`: Understanding and visualizing correlation matrices
+
+---
+
+## 💡 Who Is This For?
+- **Aspiring Data Scientists**
+- **Machine Learning Students**
+- **Educators and Trainers**
+- **Analysts brushing up their Python skills**
+
+---
+
+## 🔧 Tools & Libraries
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebooks
+
+Install dependencies with:
+
+```bash
+pip install numpy pandas matplotlib seaborn
